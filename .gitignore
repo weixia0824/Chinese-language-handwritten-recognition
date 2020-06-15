@@ -1,3 +1,4 @@
 **/*_images
 **/*.gnt
 wget/*.*
+**.joblib
