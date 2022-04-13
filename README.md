@@ -9,4 +9,4 @@ HIT-OR3C Database
 HIT_OR3C is a dataset of handwritten Chinese characters. Both online and offline information is available. The characters have been collected using a handwriting pad and are recorded and labelled automatically via the handwriting document collection software: OR3C Toolkit. The software used to collect the characters is also made available (supplied version is in Chinese).
 
 http://www.iapr-tc11.org/mediawiki/index.php?title=Datasets_List
-![image](https://user-images.githubusercontent.com/61237107/163278430-b0e791d2-615e-4551-a500-c26513ca57b0.png)
+
